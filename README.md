@@ -1,7 +1,7 @@
 <h2 align="center">🎧</h2>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=[유튜브영상코드](https://youtu.be/aZP41h5e7wE?si=4McPsyPuJLhJncGv)">
-    <img src="https://img.youtube.com/vi/[유튜브영상코드](https://youtu.be/aZP41h5e7wE?si=4McPsyPuJLhJncGv)/maxresdefault.jpg" width="400" alt="My Favorite Song" />
+  <a href="https://www.youtube.com/watch?v=https://youtu.be/aZP41h5e7wE?si=4McPsyPuJLhJncGv">
+    <img src="https://img.youtube.com/vi/https://youtu.be/aZP41h5e7wE?si=4McPsyPuJLhJncGv/maxresdefault.jpg" width="400" alt="song" />
   </a>
 </p>
 
