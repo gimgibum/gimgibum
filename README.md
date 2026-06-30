@@ -6,7 +6,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-<p align="center">
-  <!-- Streak Stats 카드 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimgibum&theme=radical" alt="gimgibum's Streak" />
-</p>
+<h2 align="left" style="color: black;">
+  Git States
+  </h2>
+
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=g4nghayun09&show_icons=true&theme=tokyolight" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=g4nghayun09&layout=compact&langs_count=6&theme=tokyolight" height="170"/>
+      </td>
+    </tr>
+  </table>
