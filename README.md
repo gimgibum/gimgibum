@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
-<!--
-**gimgibum/gimgibum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 기술 스택이나 Contact me 아래에 이어서 붙여넣으세요 -->
 
-Here are some ideas to get you started:
+<h2 align="center">GitHub Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- GitHub Stats 카드 (테마: radical) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gimgibum&show_icons=true&theme=radical" alt="gimgibum's GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages 카드 (테마: radical) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimgibum&layout=compact&theme=radical" alt="gimgibum's Top Langs" />
+</p>
