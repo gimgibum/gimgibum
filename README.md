@@ -1,10 +1,9 @@
-<h2 align="center">🎧</h2>
+<h2 align="center">🎵 My Favorite Song</h2>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=https://youtu.be/aZP41h5e7wE?si=4McPsyPuJLhJncGv">
-    <img src="https://img.youtube.com/vi/https://youtu.be/aZP41h5e7wE?si=4McPsyPuJLhJncGv/maxresdefault.jpg" width="400" alt="song" />
+  <a href="https://youtu.be/aZP41h5e7wE" target="_blank">
+    <img src="https://img.youtube.com/vi/aZP41h5e7wE/maxresdefault.jpg" width="450" alt="폴킴 - 비" style="border-radius: 10px;" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
