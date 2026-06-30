@@ -5,14 +5,6 @@
     <img src="https://img.youtube.com/vi/aZP41h5e7wE/maxresdefault.jpg" width="450" alt="폴킴 - 비" style="border-radius: 10px;" />
   </a>
 </p>
-
-<p align="center">
-  <!-- 깃허브 내장 재생 바 플레이어 -->
-  <audio controls src="https://m.search.naver.com/p/csearch/content/qaplay.nhn?key=audio&u1=https://prod-search-music.pstatic.net/music/stream/8330756.mp3" type="audio/mp3">
-    이 브라우저는 오디오 플레이어를 지원하지 않습니다.
-  </audio>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
