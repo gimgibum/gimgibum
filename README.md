@@ -8,6 +8,12 @@
 </p>
 <h2 align="center"> Contact me <h2>
 <p align="center">
+  <!-- 지메일 배지 -->
+  <a href="mailto:koreadodomp@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <!-- 인스타그램 배지 -->
   <a href="https://instagram.com/gimgibum09" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
