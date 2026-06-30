@@ -1,10 +1,4 @@
 
-<h2 align="center"></h2>
-<p align="center">
-  <a href="https://youtu.be/aZP41h5e7wE" target="_blank">
-    <img src="https://img.youtube.com/vi/aZP41h5e7wE/maxresdefault.jpg" width="450" alt="폴킴 - 비" style="border-radius: 10px;" />
-  </a>
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
