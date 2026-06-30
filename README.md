@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  <!-- 대체 서버 1번 사용 -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gimgibum&show_icons=true&theme=radical" alt="gimgibum's GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- 대체 서버 1번 사용 -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gimgibum&layout=compact&theme=radical" alt="gimgibum's Top Langs" />
+  <!-- Streak Stats 카드 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimgibum&theme=radical" alt="gimgibum's Streak" />
 </p>
