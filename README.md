@@ -1,7 +1,9 @@
 
+<h2 align="center"></h2>
 <p align="center">
-  <!-- image_13d8f9.png 이미지 배치 (클릭해도 이동하지 않음) -->
-  <img src="https://img.youtube.com/vi/aZP41h5e7wE/maxresdefault.jpg" width="450" alt="폴킴 - 비" style="border-radius: 10px;" />
+  <a href="https://youtu.be/aZP41h5e7wE" target="_blank">
+    <img src="https://img.youtube.com/vi/aZP41h5e7wE/maxresdefault.jpg" width="450" alt="폴킴 - 비" style="border-radius: 10px;" />
+  </a>
 </p>
 
 <p align="center">
